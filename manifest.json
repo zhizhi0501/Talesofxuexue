@@ -1,0 +1,39 @@
+{
+  "version": "VS07 Complete Asset Build",
+  "backgrounds": [
+    "cover.jpg",
+    "world_hd.jpg",
+    "battle_hd.jpg"
+  ],
+  "characters": [
+    "xuexue_base.png",
+    "xuexue_walk_4dir.png",
+    "xuexue_idle.png",
+    "xuexue_cast.png"
+  ],
+  "companions": [
+    "cinna_base.png",
+    "cinna_idle_walk.png"
+  ],
+  "enemies": [
+    "shadow_wolf_base.png",
+    "shadow_wolf_idle.png",
+    "shadow_wolf_hit.png",
+    "shadow_wolf_death.png"
+  ],
+  "vfx": [
+    "ritual_circle.png",
+    "ritual_impact.png",
+    "dark_bullet.png",
+    "heal_glow.png"
+  ],
+  "audio": [
+    "title.wav",
+    "world.wav",
+    "battle.wav",
+    "menu.wav",
+    "cast.wav",
+    "impact.wav",
+    "heal.wav"
+  ]
+}
